@@ -596,7 +596,7 @@ subtitle:
   enable: true
   # Typewriter Effect (打字效果)
   effect: true
-  # loop (循環打字)
+  # loop (循環打字) 
   loop: true
   # source 調用第三方服務
   # source: false 關閉調用
